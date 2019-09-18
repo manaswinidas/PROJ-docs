@@ -1,3 +1,3 @@
-* source.asciidoc(source.asciidoc)
+* [source.asciidoc](source.asciidoc)
 
 
