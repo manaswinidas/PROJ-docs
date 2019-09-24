@@ -1,5 +1,5 @@
 [id='dmn-data-types-ref_{context}']
-= Data types in FEEL
+= Category2/topic_title2-fragment_title2
 
 Friendly Enough Expression Language (FEEL) supports the following data types:
 
@@ -16,7 +16,7 @@ Friendly Enough Expression Language (FEEL) supports the following data types:
 * Ranges (or intervals)
 * Lists
 
-NOTE: The DMN specification currently does not provide an explicit way of declaring a variable as a `function`, `context`, `range`, or `list`, but {PRODUCT} extends the DMN built-in types to support variables of these types.
+NOTE: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida.
 
 The following list describes each data type:
 
