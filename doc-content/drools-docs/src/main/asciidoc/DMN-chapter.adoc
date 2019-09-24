@@ -2,10 +2,10 @@
 = Sample Documentation
 :context: dmn-models
 
-include::DMN/category1/topic_title1-fragment_title1-con.asciidoc[leveloffset=+1]
+include::myproject/category1/topic_title1-fragment_title1-con.asciidoc[leveloffset=+1]
 
-include::DMN/category1/topic_title1-fragment_title2-con.asciidoc[leveloffset=+2]
+include::myproject/category1/topic_title1-fragment_title2-con.asciidoc[leveloffset=+2]
 
-include::DMN/category2/topic_title2-fragment_title2-con.asciidoc[leveloffset=+3]
+include::myproject/category2/topic_title2-fragment_title2-con.asciidoc[leveloffset=+3]
 
-include::DMN/category2/topic_title2-fragment_title1-con.asciidoc[leveloffset=+3]
+include::myproject/category2/topic_title2-fragment_title1-con.asciidoc[leveloffset=+3]
